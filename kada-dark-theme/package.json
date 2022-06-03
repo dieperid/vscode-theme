@@ -1,0 +1,21 @@
+{
+    "name": "kada-dark-theme",
+    "displayName": "KADA Dark Theme",
+    "description": "The best dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KADA Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/KADA Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
